@@ -1,0 +1,23 @@
+Why Backup?
+    every application will be exposed to the world through servers, that server is very important it might be a dev,test, or prod server. in the server your application is deployed it should be 24*7 up and running. And some important data have in your server like you are doing big business you have lots of data and servers, if anything disaster happens to your app servers and db servers etc. it will impact the business so hear the backup concept coming into the pitcher. We can able to restore the data by using backup admin tools.
+Tools :
+1 Veritas NetBackup
+2 DELL Avamar
+3.DELL Networker 
+4. commvault
+5 HP etc..
+Here  we Can use to backup storage purposes Disk technology (DataDomain) or Cloud or Tapes 
+
+                                        Veritas Netbackup  
+Veritas Features :
+1 Platform Independent: we can able to install both Windows or Linux 
+2 Flexibility: it is user friendly & GUI and command level interface
+3 Reliability: it will support all types of backups like file, image, SQL, oracle, etc.
+4 automatic: we can able to configure schedules that will trigger automatically.
+
+
+ 
+
+
+
+ 
